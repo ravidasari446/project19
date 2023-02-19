@@ -30,13 +30,11 @@ Azure technologies used for projects :
 ![Screenshot_20230219_164445](https://user-images.githubusercontent.com/110845349/219945772-b5ea715d-6595-442e-be69-9813600cab11.jpg)
 ![Screenshot_20230219_164512(1)](https://user-images.githubusercontent.com/110845349/219945776-ba32696e-3af1-4b43-85d5-7f107f3b7507.jpg)
 ![Screenshot_20230219_164523(1)](https://user-images.githubusercontent.com/110845349/219945778-5713067f-3ed9-4bfa-abb5-5fe697647c8e.jpg)
-![Screenshot_20230219_164517(1)](https://user-images.githubusercontent.com/110845349/219945779-27e14ce3-ed42-477a-b0fb-4be231f3b906.jpg)
 ![Screenshot_20230219_164517(2)](https://user-images.githubusercontent.com/110845349/219945783-7b861239-59a0-422e-94f6-05eb00fcf60e.jpg)
 ![Screenshot_20230219_164402](https://user-images.githubusercontent.com/110845349/219945784-a9b70aeb-b355-4b20-b8c8-7ff0abb5449d.jpg)
 ![Screenshot_20230219_164356](https://user-images.githubusercontent.com/110845349/219945789-bcde5cac-053b-4a91-8dfb-741d1eea5f68.jpg)
-![Screenshot_20230219_164512](https://user-images.githubusercontent.com/110845349/219945790-eaa6e8bc-847f-49e2-99b4-9ad7bbc06490.jpg)
 ![Screenshot_20230219_164523](https://user-images.githubusercontent.com/110845349/219945793-0e189562-ab3a-4ba8-b0b2-e95b3e893f55.jpg)
-![Screenshot_20230219_164517](https://user-images.githubusercontent.com/110845349/219945795-a328f0be-355b-4bf7-b996-dee7b1b009bf.jpg)
+
 
 
 Tech Stack :
