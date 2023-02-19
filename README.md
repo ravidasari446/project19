@@ -23,9 +23,7 @@ Azure technologies used for projects :
 
 ##Screenshots
 
-![Screenshot_20230219_164517(2)](https://user-images.githubusercontent.com/110845349/219945468-07055381-02c4-4a6a-9176-5b6dff249398.jpg)![Screenshot_20230219_164517(3)](https://user-images.githubusercontent.com/110845349/219945726-ed272eb1-6eb9-4853-8528-4bf4fa3a1c31.jpg)
-![Screenshot_20230219_164512(3)](https://user-images.githubusercontent.com/110845349/219945756-24ff0d18-d09f-42e5-8c93-7a42acee9f5d.jpg)
-![Screenshot_20230219_164512(2)](https://user-images.githubusercontent.com/110845349/219945757-2f97ea77-21be-4b16-b3b9-138b9dc9b3ec.jpg)
+![Screenshot_20230219_164517(2)](https://user-images.githubusercontent.com/110845349/219945468-07055381-02c4-4a6a-9176-5b6dff249398.jpg)
 ![Screenshot_20230219_164438](https://user-images.githubusercontent.com/110845349/219945760-762618cd-6078-4b9f-83e5-a19e8b4bb475.jpg)
 ![Screenshot_20230219_164445(2)](https://user-images.githubusercontent.com/110845349/219945764-1161ca47-5414-452e-a706-f9da8156080f.jpg)
 ![Screenshot_20230219_164445(1)](https://user-images.githubusercontent.com/110845349/219945769-37639343-9d36-449e-a48a-4d8997fb402f.jpg)
