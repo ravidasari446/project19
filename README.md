@@ -4,7 +4,7 @@ This is a web based application developed for health related based website in In
 
 Project Link  : https://proud-flower-0bc081a00.2.azurestaticapps.net/contact.html
 
-project demo video link :
+project demo video link : https://www.youtube.com/watch?v=Vw14TQ0ETjg
 
 
 Azure technologies used for projects :
